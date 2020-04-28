@@ -1,0 +1,60 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Wood_Floor_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.368627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd clinicaChido/Wood_Floor_Dark.jpg
+
+newmtl Cladding_Siding_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.811765 0.811765 0.811765
+Ks 0.330000 0.330000 0.330000
+map_Kd clinicaChido/Cladding_Siding_White.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.698039 0.733333
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_I05
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Aluminum
+Ka 0.000000 0.000000 0.000000
+Kd 0.701961 0.701961 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd clinicaChido/Aluminum.jpg
+
+newmtl Translucent_Glass_Tinted
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd clinicaChido/Translucent_Glass_Tinted.jpg
+
+newmtl Roofing_Tile_Spanish
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.250980 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd clinicaChido/Roofing_Tile_Spanish.jpg
+
+newmtl Color_M03
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_F07
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.600000 0.000000
+Ks 0.330000 0.330000 0.330000
+
